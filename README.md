@@ -1,7 +1,7 @@
 # Fault Detection in Chips
 
 ## Instructions for running the code
-1. Download dataset from drive link.
+1. Download dataset from [drive link](https://drive.google.com/drive/folders/12YeGyTYB_v2IzdMKCO-62uRK6lC8lhXo?usp=sharing).
 2. Import the notebook from here and update the dataset location.
 3. Run the notebook
 
