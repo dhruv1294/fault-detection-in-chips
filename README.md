@@ -5,6 +5,6 @@
 2. Import the notebook from here and update the dataset location.
 3. Run the notebook
 
-Group 43
-  -> 106119056 - Dhruv Kachhadia
-  -> 106119002 - Abhijeet Mishra
+Group 43:
+   106119056 - Dhruv Kachhadia
+   106119002 - Abhijeet Mishra
